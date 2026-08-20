@@ -1,0 +1,14 @@
+[
+  { "name": "Priya Nair", "table": 4, "seat": "Seat 3" },
+  { "name": "Marcus Webb", "table": 2, "seat": "Seat 1" },
+  { "name": "Lucia Torres", "table": 7, "seat": "Seat 6" },
+  { "name": "David Chen", "table": 4, "seat": "Seat 4" },
+  { "name": "Sarah Kim", "table": 1, "seat": "Seat 2" },
+  { "name": "Oliver Bennett", "table": 5, "seat": "Seat 1" },
+  { "name": "Fatima Al-Sayed", "table": 3, "seat": "Seat 5" },
+  { "name": "Noah Whitfield", "table": 2, "seat": "Seat 2" },
+  { "name": "Grace O'Malley", "table": 6, "seat": "Seat 3" },
+  { "name": "Tomás Rivera", "table": 5, "seat": "Seat 4" },
+  { "name": "Emily Zhang", "table": 7, "seat": "Seat 1" },
+  { "name": "Ben Okafor", "table": 3, "seat": "Seat 2" }
+]
